@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.card-con {
+    background-color: #000000e6;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.hotel-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+
+.hotel-place {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.hotel-price {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+
+.but-con {
+    text-align: center;
+    margin: 20px;
+}
+
+.button {
+    background-color: #ffffff;
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 12px;
+    padding: 5px;
+    width: 119px;
+    height: 38px;
+    border-radius: 8px;
+}
