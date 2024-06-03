@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color: #1b1b1b;
+    padding: 24px;
+
+}
+
+.home-heading {
+    font-family: "Bree serif";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.home-item-selected {
+    border-radius: 10px;
+    background-color: #e6f6ff;
+}
+
+.home-item {
+    border-radius: 10px;
+
+}
+
+.home-item-image-selected {
+    width: 130px;
+    height: 190px;
+}
+
+.home-item-image {
+    width: 130px;
+    height: 190px;
+    margin-top: 10px;
+}
+
+.home-item-content-selected {
+    padding: 20px;
+}
+
+.home-item-content {
+    padding: 20px;
+}
+
+.home-item-heading-selected {
+    color: "#183b56";
+    font-size: 16px;
+    font-family: "Bree Serif";
+}
+
+.home-item-heading {
+    color: white;
+    font-size: 16px;
+    font-family: "Bree Serif";
+}
+
+.home-item-discription-selected {
+    color: #06070d;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.home-item-discription {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.home-item-author-selected {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 10px;
+}
+
+.home-item-author {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 10px;
+}
+
+.button {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.sub-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.books-detail-page {
+    padding: 25px;
+
+    background-color: #1b1b1b;
+}
+
+.books-detail-page-image {
+    width: 190px;
+    height: 294px;
+    margin-bottom: 20px;
+}
+
+.books-detail-page-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.books-detail-page-author {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.books-detail-page-content {
+    text-align: left;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    margin-top: 10px;
+}
